@@ -1,0 +1,23 @@
+# Eclipse project files
+.settings
+.classpath
+.project
+.metadata
+.mymetadata
+.springBeans
+
+# IntelliJ Idea project files
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Netbeans project files
+nbproject
+
+# Always ignore these directories/files
+target
+logs
+upload.sh
+
+
